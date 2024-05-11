@@ -1,4 +1,9 @@
 "use strict";
+/*Assignment
+Typescript Fundaments Practice Question
+
+Submitted By: Muhammad Shahzaib Anwar
+Roll No: PIAIC240606 */
 //Question 1
 console.log("--------------------------Question 1----------------------------");
 console.log("Hello World");
